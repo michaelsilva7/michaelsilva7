@@ -9,8 +9,8 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-0FAAFF?style=for-the-badge&logo=java&logoColor=white" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 ![Snake animation](https://github.com/michaelsilva7/michaelsilva7/blob/output/github-contribution-grid-snake.svg)
     
